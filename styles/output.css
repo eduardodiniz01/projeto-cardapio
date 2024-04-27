@@ -2756,3 +2756,10 @@ body{
     }
   }
 }
+
+.Copyrigth{
+font-size: 10px;
+font-weight: 5rem;
+text-align: center;
+height: 5px;
+}
